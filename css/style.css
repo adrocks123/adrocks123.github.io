@@ -356,7 +356,7 @@ section.about-wthree .grid figcaption {
 	top: 0;
 	left: 0;
 	padding: 20px;
-	background:url(../images/about-img.jpg) no-repeat;
+	background:url(../images/l1.png) no-repeat;
 	background-position:center;
 	background-size:cover;
 	-webkit-background-size:cover;
@@ -1250,7 +1250,7 @@ a.logo h1 i.fa {
     width: 35px;
     height: 35px;
     line-height: 32px;
-    margin: -7px 0px 0;
+    margin: -3px 0px 0;
 }
 .top-agileits {
     margin-top: 11px;
